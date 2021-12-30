@@ -32,12 +32,19 @@ Bibliotecas
 Utilitários
 
 - [Bootstrap icons](https://icons.getbootstrap.com/)
-- [IconMoon](https://www.pixinvent.com/demo/frest-clean-bootstrap-admin-dashboard-template/html/rtl/vertical-menu-template/icons-boxicons.html)
+- [Boxicons](https://www.pixinvent.com/demo/frest-clean-bootstrap-admin-dashboard-template/html/rtl/vertical-menu-template/icons-boxicons.html)
 - [Imagens](https://unsplash.com/)
 
 ## 💻 Projeto
 
-Formato de One Page, responsiva, para usar em diversos tipos de micro. Contém as seguintes seções: Header, Navigation, Home, Sobre Nós, Serviços, Depoimentos, Contato e Footer
+Formato de One Page, responsiva, para usar em diversos tipos de micro. Contém as seguintes seções: Header, Navigation, Home, Sobre Nós, Serviços, Depoimentos, FAQ, Trabalhe conosco, Contatos, HelpDesk e Footer
+
+Palheta de cores usadas da Logomarca fornecida pelo cliente:
+
+- #0a385a
+- #f1c21e
+- #fff
+
 
 ## 📝 Licença
 
@@ -45,4 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Curso fullstak da Rocketseat :wave: https://app.rocketseat.com.br/
+Projeto realizado nas informações do Cliente, grande parceiro Alvimar e seus colaboradores.
