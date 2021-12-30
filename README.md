@@ -52,9 +52,5 @@ Palheta de cores usadas da Logomarca fornecida pelo cliente:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
+Projeto realizado nas informações do Cliente, grande parceiro Alvimar e seus colaboradores.
 
-<<<<<<< HEAD
-Projeto realizado nas informações do Cliente, grande parceiro Alvimar e seus colaboradores.
-=======
-Projeto realizado nas informações do Cliente, grande parceiro Alvimar e seus colaboradores.
->>>>>>> 808d82a791ed49e6ded71a039ed9eaa2a76e2dcf
