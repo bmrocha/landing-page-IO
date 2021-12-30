@@ -1,12 +1,9 @@
 # landing-page-IO
 Empresa ramo Informática Organizacional.
 <p align="center">
-  
-<<<<<<< HEAD
-DEMO: https://informaticaorganizacional.netlify.app/
-=======
-NOVO SITE DEMO: https://informaticaorganizacional.netlify.app/
->>>>>>> 808d82a791ed49e6ded71a039ed9eaa2a76e2dcf
+
+  DEMO: https://informaticaorganizacional.netlify.app/
+
   
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
