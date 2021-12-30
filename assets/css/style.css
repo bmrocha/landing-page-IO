@@ -91,18 +91,6 @@ h1, h2, h3, h4, h5, h6 {
 #topbar .contact-info i a:hover {
   color: #f1c21e;
 }
-/* BOTAO TOP NAV*/
-#topbar .cta a {
-  color: #fff;
-  background: #f1c21e;
-  padding: 10px 20px;
-  display: inline-block;
-  transition: 0.3s;
-}
-/* HOVER BOTAO TOP NAV */
-#topbar .cta a:hover {
-  background: #c4ab1d;
-}
 
 /*--------------------------------------------------------------
 # Header
@@ -381,7 +369,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   position: relative;
   z-index: 5;
-  box-shadow: 10px 2px 15px #0a385a;
+  box-shadow: 10px 2px 15px rgba(214, 215, 216, 0.6);
 }
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -393,7 +381,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: -10px;
   padding: 8px 26px 8px 26px;
   color: #fff;
-  background: #473d3b;
+  background: #453b47;
   border-radius: 0 50px 50px 0;
   position: relative;
   z-index: 4;
@@ -531,7 +519,7 @@ section {
   text-align: center;
   border-radius: 10px;
   background: #fff;
-  box-shadow: 0px 2px 15px #1d272e;
+  box-shadow: 0px 2px 15px rgba(159, 159, 160, 0.6);
   padding: 40px 30px;
   width: 100%;
 }
