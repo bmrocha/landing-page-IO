@@ -112,8 +112,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 70px;
-  max-width: 80px;
+  max-height: 60px;
+  max-width: 75px;
 }
 
 .scrolled-offset {
@@ -440,37 +440,6 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
-
-/*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
-.breadcrumbs {
-  padding: 15px 0;
-  background: #f4f2f2;
-  margin-bottom: 40px;
-}
-.breadcrumbs h2 {
-  font-size: 28px;
-  font-weight: 500;
-}
-.breadcrumbs ol {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  padding: 0 0 10px 0;
-  margin: 0;
-  font-size: 14px;
-}
-.breadcrumbs ol li + li {
-  padding-left: 10px;
-}
-.breadcrumbs ol li + li::before {
-  display: inline-block;
-  padding-right: 10px;
-  color: #0a385a;
-  content: "/";
-}
-
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
@@ -481,7 +450,7 @@ section {
 }
 .why-us .content {
   padding: 30px;
-  background: #f1c21e;
+  background: #0a385a;
   border-radius: 4px;
   color: #fff;
 }
@@ -505,7 +474,7 @@ section {
   font-size: 14px;
 }
 .why-us .content .more-btn:hover {
-  color: #e7d217;
+  color: #1b77b4;
   background: rgb(255, 255, 255);
 }
 .why-us .icon-boxes .icon-box {
@@ -910,7 +879,7 @@ section {
 }
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
-  max-height: 500px;
+  max-height: 550px;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
@@ -1027,6 +996,7 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
 .contact .info-box {
   color: #0a385a;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
@@ -1114,8 +1084,8 @@ section {
 #footer {
   color: #0a385a;
   font-size: 14px;
-  background: #fff;
-}
+  background: #fcfafa;
+ }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
 }
