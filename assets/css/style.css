@@ -657,7 +657,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 40px;
   position: relative;
 }
 .clients .swiper-pagination .swiper-pagination-bullet {
@@ -671,7 +671,8 @@ section {
   background-color: #f1c21e;
 }
 .clients .swiper-slide img {
-  opacity: 0.5;
+  
+  opacity: 0.8;
   filter: grayscale(100%);
 }
 .clients .swiper-slide img:hover {
