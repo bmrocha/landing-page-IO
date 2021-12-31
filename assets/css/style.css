@@ -657,7 +657,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .swiper-pagination {
-  margin-top: 60px;
+  margin-top: 40px;
   position: relative;
 }
 .clients .swiper-pagination .swiper-pagination-bullet {
