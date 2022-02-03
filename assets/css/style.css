@@ -1,3 +1,10 @@
+/* =======================================================
+* Template Name: Bmrocha7l -v1.1.2
+* Site referencias URL: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* Author: Bruno Martins Rocha Contato 31 98439-0045 E-mail bmrocha7l@gmail.com
+* License: https://getbootstrap.com/docs/4.0/about/license/#it-permits-you-to
+======================================================== */
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -89,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 70px;
+  height: 90px;
   transition: all 0.5s;
   z-index: 997;
   background: #fff;
@@ -97,15 +104,12 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-fixed {
   box-shadow: 0px 0px 20px 0px rgba(247, 0, 193, 0.1);
 }
-#header .logo h1 {
-  font-size: 28px;
-  margin: 0;
-  line-height: 0;
+#header .logo p {
+  font-size: 14px;
   font-weight: 700;
-  font-family: "Open Sans", sans-serif;
 }
 /* COR H1 LOGO */
-#header .logo h1 a, #header .logo h1 a:hover {
+#header .logo p a, #header .logo p a:hover {
   color: #f1c21e;
   text-decoration: none;
 }
@@ -113,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 0;
   max-height: 60px;
-  max-width: 75px;
+  max-width: 70px;
 }
 
 .scrolled-offset {
@@ -159,7 +163,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   margin-left: 5px;
 }
-/* COR NAVEGADOR HOVER */
+/*--------------------------------------------------------------
+# COR NAVEGADOR HOVER
+--------------------------------------------------------------*/
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #f1c21e;
 }
@@ -225,10 +231,9 @@ h1, h2, h3, h4, h5, h6 {
     left: -100%;
   }
 }
-
-/**
-* Mobile Navigation 
-*/
+/*--------------------------------------------------------------
+# Mobile Navigation 
+--------------------------------------------------------------*/
 .mobile-nav-toggle {
   color: #0a385a;
   font-size: 28px;
@@ -240,12 +245,10 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav-toggle.bi-x {
   color: #fff;
 }
-
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
   }
-
   .navbar ul {
     display: none;
   }
@@ -316,7 +319,6 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
-
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -412,7 +414,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 120vh;
   }
 }
-
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
