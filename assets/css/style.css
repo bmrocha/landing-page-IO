@@ -709,25 +709,6 @@ section {
   height: 72px;
   background: #f1c21e;
 }
-.services blockquote p {
-  color: #0a385a;
-  line-height: 1.6;
-  margin-bottom: 0;
-  font-style: italic;
-  font-weight: 500;
-  font-size: 22px;
-}
-.services blockquote::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 3px;
-  background-color: #f1c21e;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 .services .icon i {
   color: #fff;
   font-size: 24px;
@@ -808,7 +789,7 @@ section {
 
 /*--------------------------------------------------------------
 # Testimonials
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .testimonials {
   padding: 80px 0;
   background: url("../img/testimonials-bg.jpg") no-repeat;
@@ -890,7 +871,7 @@ section {
     width: 80%;
   }
 }
-
+*/
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1106,9 +1087,11 @@ section {
   font-size: 14px;
   background: #fcfafa;
  }
+ /*
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
 }
+
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
@@ -1128,3 +1111,4 @@ section {
   color: #fff;
   text-decoration: none;
 }
+*/
