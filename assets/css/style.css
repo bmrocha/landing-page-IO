@@ -709,6 +709,25 @@ section {
   height: 72px;
   background: #f1c21e;
 }
+.services blockquote p {
+  color: #0a385a;
+  line-height: 1.6;
+  margin-bottom: 0;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22px;
+}
+.services blockquote::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background-color: #f1c21e;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .services .icon i {
   color: #fff;
   font-size: 24px;
