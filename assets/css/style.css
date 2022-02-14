@@ -75,23 +75,6 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.8);
   height: 40px;
 }
-/* ICONES CONTATOS NAV*/
-#topbar .contact-info i {
-  font-style: normal;
-  color: #f1c21e;
-}
-#topbar .contact-info i a, #topbar .contact-info i span {
-  padding-left: 5px;
-  color: #fff;
-}
-#topbar .contact-info i a {
-  line-height: 0;
-  transition: 0.3s;
-}
-#topbar .contact-info i a:hover {
-  color: #f1c21e;
-}
-
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -116,8 +99,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-width: 180px;
-  max-height: 150px;
+  max-width: 185px;
+  max-height: 100px;
 }
 
 .scrolled-offset {
@@ -178,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #c4ab1d;
+  background: #f1c21e;
 }
 .navbar .dropdown ul {
   display: block;
@@ -658,7 +641,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .swiper-pagination {
-  margin-top: 40px;
+  margin-top: 35px;
   position: relative;
 }
 .clients .swiper-pagination .swiper-pagination-bullet {
