@@ -99,12 +99,12 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-width: 185px;
-  max-height: 100px;
+  max-width: 85px;
+  max-height: 80px;
 }
 
 .scrolled-offset {
-  margin-top: 70px;
+  margin-top: 40px;
 }
 
 #main {
