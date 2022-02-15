@@ -46,6 +46,9 @@ Palheta de cores usadas da Logomarca fornecida pelo cliente:
 - #f1c21e
 - #fff
 
+Descrições e textos:
+
+- Contato Luciano Viana
 
 ## 📝 Licença
 
