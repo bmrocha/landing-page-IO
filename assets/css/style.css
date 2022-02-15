@@ -1027,7 +1027,7 @@ section {
 # Blog
 --------------------------------------------------------------*/
 .blog {
-  padding: 0;
+  padding: 50px;
 }
 .blog .entry .entry-img {
   max-height: 440px;
@@ -1060,6 +1060,34 @@ section {
   background-color: #f1c21e;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+/*--------------------------------------------------------------
+# Card blog 
+--------------------------------------------------------------*/
+.blog .info-box {
+  color: #0a385a;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 10px;
+}
+.blog .info-box i {
+  font-size: 32px;
+  color: #f1c21e;
+  border-radius: 50%;
+  padding: 8px;
+  border: 2px dotted #f1c21e;
+  float: left;
+}
+.blog .info-box h3 {
+  font-size: 20px;
+  color: #0a385a;
+  font-weight: 700;
+  margin: 10px 0 10px 68px;
+}
+.blog .info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin: 0 0 0 68px;
 }
 
 /*--------------------------------------------------------------
