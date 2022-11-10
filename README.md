@@ -1,5 +1,5 @@
-# landing-page-IO
-Empresa ramo Informática Organizacional.
+# landing-page institucional Informática Organizacional
+Empresa ramo Informática, venda, locações, suportes entre outros.
 <p align="center">
 
   DEMO: https://informaticaorganizacional.netlify.app/
