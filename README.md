@@ -48,12 +48,12 @@ Palheta de cores usadas da Logomarca fornecida pelo cliente:
 
 Descrições e textos:
 
-- Contato Luciano Viana
+- Contato com os colaboradores Luciano Viana e Alvimar Reis que enviou as informações e ajudou nos detalhes e tomadas de decisões.
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-Projeto realizado nas informações do Cliente, grande parceiro Alvimar e seus colaboradores.
+Projeto realizado nas informações colhidas do Cliente, grande parceiro Alvimar e seus colaboradores.
 
